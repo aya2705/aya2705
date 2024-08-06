@@ -1,7 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">I am a software engineering student with a passion for both frontend and backend development. My goal is to create intuitive and aesthetic user interfaces while also developing robust and efficient backend systems, continuously improving my technical and creative skills.</h3>
-<img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aya2705&label=Profile%20views&color=0e75b6&style=flat" alt="aya2705" /> </p>
 
