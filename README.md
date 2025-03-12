@@ -65,4 +65,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aya2705&show_icons=true&locale=en&layout=compact" alt="aya2705" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aya2705&show_icons=true&locale=en" alt="aya2705" /></p>
 
