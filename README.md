@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aya2705" alt="aya2705" /></a> </p>
 
-- 🌱 I’m currently learning **laravel,Python,Java...**
+- 🌱 I’m currently learning **Python,SpringBoot,React ...**
 
 - 📫 How to reach me **touicha.aya@gmail.com**
 
