@@ -44,9 +44,7 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/JavaFX_Logo.png" alt="javafx" width="40" height="40"/>
-  </a>
+  
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
   </a>
@@ -67,6 +65,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aya2705&show_icons=true&locale=en&layout=compact" alt="aya2705" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aya2705&show_icons=true&locale=en" alt="aya2705" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aya2705&" alt="aya2705" /></p>
