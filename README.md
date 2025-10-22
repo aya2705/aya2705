@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Aya Touicha</span></h1>
-<h3 align="center">💻 Software Engineering Student | Full-Stack Developer | Creative Tech Enthusiast</h3>
+<h3 align="center">💻 Software Engineering Student | Full-Stack Developer | QA & Software Testing Enthusiast</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ### 🚀 About Me  
 - 🎓 5th-year Computer Engineering student at **ENSA Tétouan**  
 - 💻 Passionate about **frontend & backend** development  
-- 🌱 Currently learning **Spring Boot**, **React**, and **Python**  
+- 🌱 Currently learning **Spring Boot**, **React**, and **ODOO**  
 - 🎯 Goal: Build **intuitive, elegant, and efficient** digital experiences  
 - 📫 Reach me at **touicha.aya@gmail.com**
 
