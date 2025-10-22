@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Aya Touicha</span></h1>
+<h1 align="center"> Hey there, I'm <span style="color:#4CAF50;">Aya Touicha</span></h1>
 <h3 align="center">💻 Software Engineering Student | Full-Stack Developer | QA & Software Testing Enthusiast</h3>
 
 ---
@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=🌱+Software+Engineering+Student+at+ENSA+Tétouan;💡+Passionate+about+Web+Development;⚡+Building+Creative+and+Smart+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=🌱+Software+Engineering+Student+at+ENSA+Tétouan;+Passionate+about+Web+Development;+Building+Creative+and+Smart+Web+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 - 🎓 5th-year Computer Engineering student at **ENSA Tétouan**  
 - 💻 Passionate about **frontend & backend** development  
 - 🌱 Currently learning **Spring Boot**, **React**, and **ODOO**  
@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/aya-touicha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/el_aya23" target="_blank">
+  <a href="https://www.instagram.com/ayatouicha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:touicha.aya@gmail.com">
