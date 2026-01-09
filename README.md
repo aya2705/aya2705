@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Aya Touicha</span></h1>
 
-<h3 align="center">
-  💻 Software Engineering Student | Full-Stack Developer <br/>
-  🧪 QA & Software Testing Enthusiast
-</h3>
+<h3 align="center">💻 Software Engineering Student | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aya2705&label=Profile%20Views&color=4CAF50&style=flat-square" alt="profile views" />
@@ -47,21 +44,8 @@
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,laravel,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,React,spring,laravel,bootstrap,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya2705&show_icons=true&theme=react&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aya2705&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya2705&layout=compact&theme=react&hide_border=true)
-
----
-
 ## 🌟 Fun Fact  
 
 > “Code is like humor — when you have to explain it, it’s bad.” 😄  
