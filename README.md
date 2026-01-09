@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+at+ENSA+Tétouan;Full-Stack+Web+Developer;QA+%26+Software+Testing+Enthusiast;Building+Clean%2C+Scalable+and+Reliable+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+at+ENSA+Tétouan;Full-Stack+Web+Developer🚀" />
 </p>
 
 ---
