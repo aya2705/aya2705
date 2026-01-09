@@ -15,8 +15,6 @@
 ## 👩‍💻 About Me  
 
 🎓 **5th-year Software Engineering student** at **ENSA Tétouan**  
-💻 Interested in **Full-Stack Web Development** (Frontend & Backend)  
-🧪 Passionate about **Software Quality, Testing & Best Practices**  
 🌱 Currently learning **Spring Boot**, **React**, and **Odoo**  
 🎯 Focused on building **clean, scalable, and user-friendly applications**  
 
