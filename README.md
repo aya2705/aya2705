@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Aya Touicha</span></h1>
+
 <h3 align="center">
   💻 Software Engineering Student | Full-Stack Developer <br/>
   🧪 QA & Software Testing Enthusiast
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+at+ENSA+Tétouan;Full-Stack+Web+Developer;Passionate+about+Clean+Code+and+Quality+Software;Always+Learning+and+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+at+ENSA+Tétouan;Full-Stack+Web+Developer;QA+%26+Software+Testing+Enthusiast;Building+Clean%2C+Scalable+and+Reliable+Applications+🚀" />
 </p>
 
 ---
@@ -17,13 +18,13 @@
 ## 👩‍💻 About Me  
 
 🎓 **5th-year Software Engineering student** at **ENSA Tétouan**  
-💡 Strong interest in **Full-Stack Web Development** and **Software Quality**  
-🧪 Enthusiast in **QA & Software Testing** (manual & automated)  
+💻 Interested in **Full-Stack Web Development** (Frontend & Backend)  
+🧪 Passionate about **Software Quality, Testing & Best Practices**  
 🌱 Currently learning **Spring Boot**, **React**, and **Odoo**  
-🎯 My goal is to build **scalable, user-friendly, and high-quality applications**  
+🎯 Focused on building **clean, scalable, and user-friendly applications**  
 
-📫 **Contact me:**  
-👉 **Email:** `touicha.aya@gmail.com`
+📫 **Contact:**  
+📧 `touicha.aya@gmail.com`
 
 ---
 
@@ -46,21 +47,18 @@
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,laravel,bootstrap,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,laravel,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya2705&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aya2705&theme=react&hide_border=true" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya2705&show_icons=true&theme=react&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya2705&layout=compact&theme=react&hide_border=true" width="50%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aya2705&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya2705&layout=compact&theme=react&hide_border=true)
 
 ---
 
