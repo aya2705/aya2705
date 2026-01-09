@@ -44,7 +44,7 @@
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,React,spring,laravel,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,laravel,bootstrap,mysql,git,github,vscode" />
 </p>
 ## 🌟 Fun Fact  
 
