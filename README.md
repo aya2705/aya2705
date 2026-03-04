@@ -15,7 +15,7 @@
 ## 👩‍💻 About Me  
 
 🎓 **5th-year Software Engineering student** at **ENSA Tétouan**  
-🌱 Currently learning **Spring Boot**, **React**, and **Odoo**  
+🌱 Currently learning **ABAP/BTP** 
 🎯 Focused on building **clean, scalable, and user-friendly applications**  
 
 📫 **Contact:**  
